@@ -1,0 +1,33 @@
+title: BMX
+description: Reliving my youth again…
+
+#url: 
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+# header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 8
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: My 4130
+    url: /My4130
+
+#social:
+#  github: 
+#  twitter: 
+#  facebook: 
+#  email: bmx@berrydejager.com
+#  linkedin: 
+
+#google_analytics: ""
+
+#disqus:
+#    shortname: 

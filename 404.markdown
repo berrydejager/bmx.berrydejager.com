@@ -1,0 +1,9 @@
+---
+# example 404.md
+
+layout: default
+permalink: /404.html
+---
+<p align="center">
+  <img src="/assets/img/404.png" />
+</p>
